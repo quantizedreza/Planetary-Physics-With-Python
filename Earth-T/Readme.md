@@ -1,5 +1,5 @@
 # Temperature Timeseries in United States:
-35+ years of continuous measurements. Experimental Syst. Errors associated with these measurements are unknown. Modern weather stations achieve uncertainties around ±0.1 to ± 0.2 Celsius (around ±0.2-0.4°F). 
+35+ years of continuous measurements. Experimental Syst. Errors associated with these measurements are unknown. 
 
 Latest update to data: Jan 1, 2026
 
