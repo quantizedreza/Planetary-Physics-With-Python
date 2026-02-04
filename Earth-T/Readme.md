@@ -1,13 +1,8 @@
-# Temperature Timeseries in United States:
+<img width="1000" height="900" alt="mcmc1" src="https://github.com/user-attachments/assets/a269a38b-ac8b-4f03-9497-3e30805499f9" /># Temperature Timeseries in United States:
 
 
-35+ years of continuous measurements. Systemic errors associated with these measurements are errors caused by calibration, urban heat island radiation from nearby sources (close to weather stations) and other factors which might affect the error. That number, is not considered here. Only statistical uncertainties and noises are studied here.
+35+ years of continuous measurements. Systemic errors associated with these measurements are errors caused by calibration, urban heat island radiation from nearby sources (close to weather stations) and other factors which might affect the error. That number is unknown.
 
-The final measurement can be reported as Trend +/- (Stat.) +/- (Sys.) once we have the reliable Systemic error, which we currenly don't. 
-
-
-
-Monte Carlo Markov Chains added to better estimate the trend and uncertainties invovled. 
 U.S. temperature data timeseries from NOAA. 
 https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/time-series
 
