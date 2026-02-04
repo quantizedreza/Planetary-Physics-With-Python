@@ -1,7 +1,7 @@
 # Temperature Timeseries in United States:
 35+ years of continuous measurements. Experimental Syst. Errors associated with these measurements are unknown. Modern weather stations achieve uncertainties around ±0.1 to ± 0.2 Celsius (around ±0.2-0.4°F). 
 
-Latest update: Feb 4, 2026
+Latest update to data: Jan 1, 2026
 
 U.S. temperature data timeseries from NOAA. 
 https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/time-series
