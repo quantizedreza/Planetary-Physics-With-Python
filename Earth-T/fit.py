@@ -1,3 +1,6 @@
+#This code produces the random forest fit to the temperature data 
+# The oscillations resemble ENSO.
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
