@@ -12,3 +12,5 @@ https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/time-s
 <img width="1300" height="916" alt="mcmc2" src="https://github.com/user-attachments/assets/6454803d-6642-4cac-89c8-0bd79659974a" />
 <img width="1300" height="916" alt="mcmc3" src="https://github.com/user-attachments/assets/5382e76f-911e-4e8a-a212-11b25f5a180c" />
 
+
+Fit.py resembles ENSO, which is not well understood in planetary physics and so are the sea surface temperature variations.
