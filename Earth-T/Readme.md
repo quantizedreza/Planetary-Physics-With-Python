@@ -21,3 +21,6 @@ Does an increase in CO2 cause an increase in Temperature?
 <img width="962" height="642" alt="Screenshot from 2026-02-07 00-43-30" src="https://github.com/user-attachments/assets/af43b03c-ac73-41c8-9f79-305cfd6b7f18" />
 
 CO₂ is not acting as a meaningful driver of temperature on the timescale and in the data we are looking at. As it correlates positively, only half of the time. 
+
+Let's look at the "Global" picture:
+<img width="1768" height="986" alt="temperature_vs_co2" src="https://github.com/user-attachments/assets/70106068-f0df-48bf-a514-1a82d59323e3" />
