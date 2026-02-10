@@ -7,7 +7,9 @@ U.S. temperature data timeseries from NOAA.
 https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/time-series
 
 <img width="1100" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/913a00e5-4a95-4954-a18a-0b8d79fa2509" />
-File: Fit.py resembles ENSO, which is not well understood in planetary physics and so are the sea surface temperature variations. Also, In the year 1975, a Newsweek article claimed that the earth was cooling. "The Cooling World" article is available [here](https://ia801508.us.archive.org/4/items/GlobalCoolingNewsweekArticle1975/GlobalCoolingNewsweekArticle1975_text.pdf). Then for political reasons, a "consensus" was formed and they claimed later that it was warming. It nevertheless gave rise to bad models (such as those by IPCC).
+File: Fit.py resembles ENSO, which is not well understood in planetary physics and so are the sea surface temperature variations. Also, In the year 1975, a Newsweek article claimed that the earth was cooling. "The Cooling World" article is available [here](https://ia801508.us.archive.org/4/items/GlobalCoolingNewsweekArticle1975/GlobalCoolingNewsweekArticle1975_text.pdf).
+
+Then for political reasons, a "consensus" was formed and they claimed later that it was warming. It nevertheless gave rise to bad models (such as those by IPCC).
 
 
 
