@@ -25,4 +25,4 @@ CO₂ is not acting as a meaningful driver of temperature on the timescale and i
 Let's look at the "Global" picture:
 <img width="1768" height="986" alt="temperature_vs_co2" src="https://github.com/user-attachments/assets/70106068-f0df-48bf-a514-1a82d59323e3" />
 
-Back in the day (1975), a Newsweek article claimed that the earth was cooling. "The Cooking World" article is available [here](https://ia801508.us.archive.org/4/items/GlobalCoolingNewsweekArticle1975/GlobalCoolingNewsweekArticle1975_text.pdf).
+Back in the day (1975), a Newsweek article claimed that the earth was cooling. "The Cooling World" article is available [here](https://ia801508.us.archive.org/4/items/GlobalCoolingNewsweekArticle1975/GlobalCoolingNewsweekArticle1975_text.pdf).
