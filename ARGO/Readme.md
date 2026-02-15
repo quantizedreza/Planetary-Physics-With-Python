@@ -1,1 +1,4 @@
 
+<img width="3600" height="1800" alt="transect_plot" src="https://github.com/user-attachments/assets/ac3d1d14-72b6-4c68-a050-84fbaf58a4f8" />
+
+The temperature and Salinity fields in the ocean are part of a complex system of surface heat flux, winds, percipitation minus evaporation and ocean circulation. Surface heat is different at different lattitudes, at the equator warm water and at the poles, cold water presence are maximum. The interplay between these variables create collectively, the distinct salinity patterns. In warmer regions of the ocean, salinity is also higher.
