@@ -6,6 +6,12 @@ Latest update to data: Jan 1, 2026
 U.S. temperature data timeseries from NOAA. 
 https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/time-series
 
+
+<img width="1404" height="563" alt="climate" src="https://github.com/user-attachments/assets/c5e232c5-0480-4e68-834b-6d62338e2dd7" />
+
+
+
+
 <img width="1000" height="600" alt="california" src="https://github.com/user-attachments/assets/7a90f78e-468a-45ab-8bb0-3610abcd1750" />
 
 
