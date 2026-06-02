@@ -5,3 +5,5 @@ Variation in the Earth's magnetic field since the year 1900.
 
 [1] Kilifarska NA, Bakmutov VG, Melnyk GV. The hidden link between Earth's magnetic field and climate. Elsevier; 2020 Jun 19. 
 Aniamated by Reza Rahemi - 2025
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
