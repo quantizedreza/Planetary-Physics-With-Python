@@ -7,7 +7,7 @@ from sklearn.gaussian_process.kernels import RBF, ConstantKernel as C
 data = np.loadtxt('creep_data.txt', delimiter=',')
 X = data[:, 0].reshape(-1, 1)  # Latitude (1st column)
 y = data[:, 2]                 # Creep rate (3rd column)
-dy = data[:, 3]                # Uncertainty (4th column)
+dy = data[:, 3]                # Uncertainty (4th column) 
 
 # Define the kernel: Constant kernel * RBF kernel
 kernel = C(1.0, (1e-3, 1e3)) * RBF(length_scale=10.0, length_scale_bounds=(1e-2, 1e2))
@@ -32,7 +32,7 @@ plt.fill_between(X_pred.ravel(), y_pred - 1.96 * sigma, y_pred + 1.96 * sigma,
 plt.xlabel('Latitude')
 plt.ylabel('Creep Rate')
 plt.title('Gaussian Process Regression on Creep Rate vs Latitude')
-plt.legend(loc='upper left')
+plt.legend(loc='upper right')
 plt.grid(True)
 plt.show()
 
